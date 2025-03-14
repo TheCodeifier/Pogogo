@@ -56,7 +56,8 @@ class Trainingsschema {
     }
 }
 
-public class Main {
+public class main {
+    @SuppressWarnings("ConvertToTryWithResources")
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
